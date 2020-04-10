@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -7,11 +8,9 @@
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
-    <option name="useMaterialIcons" value="false" />
-    <option name="useHollowFolders" value="false" />
     <option name="tabsHeight" value="30" />
-    <option name="accentColor" value="2979ff" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-163fc22f:16931a23816:-8000" />
     <option name="version" value="4.11.5" />
   </component>
