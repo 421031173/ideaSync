@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="xml">
+      <display-name>id/@property</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("property")).withParent(xmlTag().withLocalName(string().equalTo("id")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd")))]]></place>
+    </injection>
+  </component>
+</application>
