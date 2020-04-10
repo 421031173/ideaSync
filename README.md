@@ -1,0 +1,2 @@
+# ideaSync
+ideaSync
