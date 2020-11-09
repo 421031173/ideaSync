@@ -9,6 +9,7 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Microsoft YaHei Mono" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
